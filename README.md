@@ -1,6 +1,6 @@
 **Shrek - Imersão Dev com Google Gemini**
 
-##**README.md Descontraído para o seu Projeto Shrek**
+## **README.md Descontraído para o seu Projeto Shrek**
 
 ### **Shrek: A Busca pelo seu Personagem Favorito!**
 
