@@ -6,7 +6,7 @@
 
 **O que faz essa aplicação?**
 
-Imagina um livro de receitas, mas em vez de receitas, você tem personagens do Shrek. Digita o nome de um personagem e *puf*, a aplicação te mostra tudo sobre ele! É como ter uma enciclopédia do mundo do Shrek na palma da sua mão (ou melhor, na tela do seu computador!).
+Imagina um livro de receitas, mas em vez de receitas, você tem personagens do Shrek. Digita o nome de um personagem e *puf*, a aplicação te mostra sobre ele!.
 
 **Como funciona a magia?**
 
@@ -36,12 +36,3 @@ Essa é apenas uma pequena introdução ao projeto Shrek. Tem muito mais para ex
 **Vamos juntos transformar o mundo do Shrek em um lugar ainda mais mágico!** 
 
 **#Shrek #JavaScript #HTML #CSS #DesenvolvedorWeb**
-
-**Observações:**
-
-* **Personalize:** Adapte o texto do README para refletir a sua personalidade e o estilo do seu projeto.
-* **Imagens:** Adicione imagens ou GIFs para tornar o README mais visualmente atraente.
-* **Links:** Inclua links para outros repositórios, documentação ou recursos relevantes.
-* **Agradecimentos:** Agradeça a qualquer pessoa que tenha contribuído para o projeto.
-
-Com este README, você terá uma ótima base para compartilhar o seu projeto com outros desenvolvedores e entusiastas do Shrek! 
